@@ -1,2 +1,3 @@
 # s
-amozehy
+amozeshy
+taghir aval file readme
